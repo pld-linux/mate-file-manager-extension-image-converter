@@ -10,7 +10,7 @@ Source0:	http://pub.mate-desktop.org/releases/1.6/mate-file-manager-image-conver
 URL:		http://www.bitron.ch/software/mate-file-manager-image-converter.php
 BuildRequires:	autoconf >= 2.53
 BuildRequires:	automake >= 1:1.9
-BuildRequires:	gettext-devel >= 0.10.40
+BuildRequires:	gettext-tools >= 0.10.40
 BuildRequires:	glib2-devel >= 1:2.28.0
 BuildRequires:	gtk+2-devel >= 2:2.12.0
 BuildRequires:	intltool >= 0.35.0
